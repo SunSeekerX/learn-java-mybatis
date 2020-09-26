@@ -1,0 +1,666 @@
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, createTime, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: c7819e13c79143ea921dbc00b34843a9(String), 标题标题(String), 李白(String), 2020-09-26 16:10:34.448(Timestamp), 999(Integer)
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, createTime, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: db11348efca3481389dbb46b5048ac9f(String), 标题标题(String), 李白(String), 2020-09-26 16:17:37.544(Timestamp), 999(Integer)
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 89c71385d3564c3281d7b4f48ea31c0c(String), 标题标题(String), 李白(String), 2020-09-26 16:18:58.124(Timestamp), 999(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 34fd959ec16241faa95305dc7e8568b0(String), 标题标题34e58d4e87ab4887b409041028b0094f(String), 李白(String), 2020-09-26 16:18:58.35(Timestamp), 1000(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: a32fe5783d76416785a4491b8a2a091c(String), 标题标题(String), 李白(String), 2020-09-26 16:19:22.632(Timestamp), 999(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: c8c5f767cb594a3d9d1d9983c9a235b7(String), 标题标题9cde22c44a504d10878589cf1c8c2b1f(String), 李白(String), 2020-09-26 16:19:22.866(Timestamp), 1000(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Rolling back JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 5cc9e338f0fc404f9df646b6c59bccd6(String), 标题：(String), 李白(String), 2020-09-26 16:22:21.62(Timestamp), -88(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: d02389e103304151a5199e9f0d460411(String), 标题：3ffc093320d94469b1c3344d2f24e569(String), 李白(String), 2020-09-26 16:22:21.821(Timestamp), -86(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 2f2b9d2e286b445898bbdbc76f242020(String), 标题：e587542d891a4e9880416363bb2b85ca(String), 李白(String), 2020-09-26 16:22:21.824(Timestamp), -84(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: ebb05bcae96b48bba30a46a3127d18bd(String), 标题：d1d5751f0c1a4c4586374ad8ae7d5da0(String), 李白(String), 2020-09-26 16:22:51.882(Timestamp), -26(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 859dde357af34a2d9788ec53971ac417(String), 标题：a452446d97d54c8f9a79145985216a08(String), 李白(String), 2020-09-26 16:22:52.091(Timestamp), -16(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 38f719c17d924f00bd6cb65468bf87f9(String), 标题：e44035f31ef64476b486917cd59500a5(String), 李白(String), 2020-09-26 16:22:52.097(Timestamp), -11(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 3a2d16a9bb9141c8b88ad3a4493d0fd9(String), 标题：1281585b776b42df8fdf7e27d942df9e(String), 李白(String), 2020-09-26 16:25:20.544(Timestamp), -64(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 97ef3ad9c76a4a00a2e38ea9413131d2(String), 标题：171800bac6e34b39819a96e4c5f94210(String), 李白(String), 2020-09-26 16:25:20.744(Timestamp), -64(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: e37fb7ce508148569fd8b648bdbae9d0(String), 标题：3d20c8e67f4e483c9ec3efd622920617(String), 李白(String), 2020-09-26 16:25:20.746(Timestamp), -62(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: a8b322104b12486aa0472c4cd05496e9(String), 标题：702035e6049341c5aba2ad6a3761fb09(String), 李白(String), 2020-09-26 16:25:20.748(Timestamp), -60(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: e5e56cd43770430c8d98027d114830e0(String), 标题：515c2831f0234f578804d637c7accaa4(String), 李白(String), 2020-09-26 16:25:20.751(Timestamp), -57(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: a80ed0a958df4e61af6287924789daab(String), 标题：2eebe4e913ef4ad192bbe37a9628936f(String), 李白(String), 2020-09-26 16:25:20.761(Timestamp), -47(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: bb8c9b2723e54be299beb95dd5be8f09(String), 标题：25ed14c30a6c4090a283e0d9ed949d8e(String), 李白(String), 2020-09-26 16:25:20.764(Timestamp), -44(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 0a02eba65b114574b4c05e0f6b52a4b4(String), 标题：691dba7c9cdf4967881463246a2fef9c(String), 李白(String), 2020-09-26 16:25:20.765(Timestamp), -43(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 0498f9399afd463aada636f7b586b518(String), 标题：1ab36e75be1247cfb946174cb1613ed9(String), 李白(String), 2020-09-26 16:25:20.767(Timestamp), -40(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: de15df9ba22b49079c6b3adce5dbde60(String), 标题：431c0a4cdb4340b4afef5007e2124d50(String), 李白(String), 2020-09-26 16:25:20.772(Timestamp), -36(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 29880cf53f76439aa4d2c70292ca5927(String), 标题：8fd3898a72904ab58c79e4440024f7eb(String), 李白(String), 2020-09-26 16:25:55.173(Timestamp), 35(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: e1e23e46e13f4a2e9e42e592ceacda55(String), 标题：277d6adc59084259943c10d45df0cab5(String), 李白(String), 2020-09-26 16:25:55.409(Timestamp), 99(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: f2a7ce801d8e4974a2dcfe9e9179ae76(String), 标题：635f50e68dae4b97a1e38dc31314eb44(String), 李白(String), 2020-09-26 16:25:55.415(Timestamp), 93(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 6e000fade2724afdb6b921f683e935f4(String), 标题：c9ef8d03b63d4673ab9638e92fe12788(String), 李白(String), 2020-09-26 16:25:55.417(Timestamp), 90(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 9da30cb78a62405c83135b25e0b2c253(String), 标题：7f7ae68140e244e6ac47730d492b5d36(String), 李白(String), 2020-09-26 16:25:55.421(Timestamp), 87(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 85ab6a838bc549fea39fb190360b26f0(String), 标题：938a4f78436d427aaea92b0e68141e2a(String), 李白(String), 2020-09-26 16:25:55.427(Timestamp), 81(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 4d80a8ffa55a4c4c8aa360070f7d9ef2(String), 标题：ceb3c51a935540e3b00620b28eba4123(String), 李白(String), 2020-09-26 16:25:55.43(Timestamp), 77(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 81a9972fa3d44ed8ae36e18ddf0b7139(String), 标题：36c2c38e9e0e4dfdbb0184a9bb0574ae(String), 李白(String), 2020-09-26 16:25:55.433(Timestamp), 75(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 629ceadbbc27471da2e92e9399e33578(String), 标题：448d7007530041ce94e9c9669690b860(String), 李白(String), 2020-09-26 16:25:55.435(Timestamp), 72(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 70ff5da7ce6b4eaa9cfca0c59d4ba78e(String), 标题：ac254424e1894cb499ded5c69c0c1aca(String), 李白(String), 2020-09-26 16:25:55.438(Timestamp), 70(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: db8e81472ce04240adc6ec943b46c587(String), 标题：f8ddf6ff692f43af8fdc1db3b7cd4216(String), 李白(String), 2020-09-26 16:26:09.634(Timestamp), 74(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 52bae48ebbfe4f74ade23ce900be54e8(String), 标题：1fc1fcf2efdd4e3b8f29f948dc62b350(String), 李白(String), 2020-09-26 16:26:09.828(Timestamp), 80(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: aa40eaaeedad4676b60cad8da9350aa7(String), 标题：df17e2a74b9744b5a44297e4b819292f(String), 李白(String), 2020-09-26 16:26:09.832(Timestamp), 76(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 5c83d301f7214a268d75c922cb1a5f4c(String), 标题：c4bfd83a500e49c49edf92dce23649af(String), 李白(String), 2020-09-26 16:26:09.834(Timestamp), 74(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 85d872bbad104cd784bcc667a149637f(String), 标题：82822fd4a48e40c18719464f696723ad(String), 李白(String), 2020-09-26 16:26:09.835(Timestamp), 73(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 1ebe1468b4d84a61a3d039fca6d8f148(String), 标题：ebe3c88b07ec4637bdd252768595f079(String), 李白(String), 2020-09-26 16:26:09.842(Timestamp), 66(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: cb0767b630894d55876b69833cc8ff10(String), 标题：fd99fa2deb44472fb6a87984f01f6936(String), 李白(String), 2020-09-26 16:26:09.844(Timestamp), 64(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: a5b4a6f71bc04c84a58a082136c34342(String), 标题：c6db9e2c0ad144a1b6b374cf97a4c8fc(String), 李白(String), 2020-09-26 16:26:09.847(Timestamp), 61(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: b1dcb18ca7ff453d8e657ca6b5b2e387(String), 标题：ce98aba9f6eb440a8bf98218f2add40e(String), 李白(String), 2020-09-26 16:26:09.849(Timestamp), 59(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: bd2769ece99a4a6c82992748a044130b(String), 标题：b0556d17b1a646f7ada8012e3c6b0131(String), 李白(String), 2020-09-26 16:26:09.851(Timestamp), 57(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: e2e44c1e74be4d88bba34a15df5e8783(String), 标题：16d71c7d52ff4965801dc533451d50de(String), 李白(String), 2020-09-26 16:30:09.999(Timestamp), 95(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 3a60e2e3d5234439a875bc657b5f7024(String), 标题：0a01205b8871436eb030f420b050ad4f(String), 李白(String), 2020-09-26 16:30:11.203(Timestamp), 97(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 4aefe95c0e204f3790c578691f6e4e97(String), 标题：660c2edaa95a47c7a58ee32830782a08(String), 李白(String), 2020-09-26 16:30:12.214(Timestamp), 90(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 7988d94265d84a6eb1856a529fbf303b(String), 标题：7d679d4ba6824b98a0dc7ae638c3cba1(String), 李白(String), 2020-09-26 16:30:13.22(Timestamp), 75(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 8c8c9a90c7d3444ab5d9582fc54dd366(String), 标题：a0a26b903bdd43b4a19745e426d46802(String), 李白(String), 2020-09-26 16:30:14.235(Timestamp), 57(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 29e22421a8af4fb68c578c83d3619b65(String), 标题：4827366f05014d0e89729e042646b91d(String), 李白(String), 2020-09-26 16:30:15.256(Timestamp), 39(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 163f664dc07a4c3c8a1abcd1efc2aaca(String), 标题：917f01dedb9b4ad3b281c42411b78fee(String), 李白(String), 2020-09-26 16:30:16.279(Timestamp), 20(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 4b92123b19a7403ab509e2a8fdc0f18f(String), 标题：c47c32d76f82485486f7b04afbd0dadf(String), 李白(String), 2020-09-26 16:30:17.291(Timestamp), 15(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 6a49bfab4921431385580b0148de690f(String), 标题：39fe02638b1f49b18ca462ee902cc3a3(String), 李白(String), 2020-09-26 16:30:18.296(Timestamp), 97(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: a970c32502d347d4a381836b7bc67f4d(String), 标题：72c7127e6e6748f98d401e6c58511dd7(String), 李白(String), 2020-09-26 16:30:19.313(Timestamp), 87(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 4c012c743097491ca015ead2701ce6f7(String), 标题：0ae668c73a6c4b96b38d80fe1f34da6d(String), 李白(String), 2020-09-26 16:30:42.06(Timestamp), 31(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 85869ceef8c3473cb4ae153e67d9fb00(String), 标题：3dc1d33ce8ed4309b5f787d47353edb7(String), 李白(String), 2020-09-26 16:30:42.791(Timestamp), 11(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 45cd6e25a8e64c6ba10ee5b53e9bc551(String), 标题：0c472f797f294340a7b018a0fb254deb(String), 李白(String), 2020-09-26 16:30:43.298(Timestamp), 5(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 3948f5e62ed241e9ae0c87e9ebcf8360(String), 标题：a88e19445bb24f5cb9de9385940cc6cc(String), 李白(String), 2020-09-26 16:30:43.805(Timestamp), 0(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 7c0ea16695df48429bfeb4394365a0c3(String), 标题：42df9d714a044366ad99a4b61573417c(String), 李白(String), 2020-09-26 16:30:44.31(Timestamp), 96(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: ba89d9dc6a0a4f97962177deb94413f8(String), 标题：a969a2926d0c4d3da7754ef2a5f1c1a1(String), 李白(String), 2020-09-26 16:30:44.818(Timestamp), 79(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 1a78e22189714d8ab3f45e8006b9d460(String), 标题：454391b2abc34c2ebed3a134537a0a6c(String), 李白(String), 2020-09-26 16:30:45.337(Timestamp), 62(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 9c988a55f19544149ccf3fad46a1ba6f(String), 标题：70848235f0db48d29c0f9c078e29b41e(String), 李白(String), 2020-09-26 16:30:45.848(Timestamp), 57(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 0c63727edac34cc4b12d3680c36743f4(String), 标题：39610b3eb8754d0cba5413bc58d9ed09(String), 李白(String), 2020-09-26 16:30:46.353(Timestamp), 43(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 77c160f8423248489447a62394243302(String), 标题：335b7a669e5e4deb87ea9444cb3ffbc2(String), 李白(String), 2020-09-26 16:30:46.867(Timestamp), 27(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 8f33389f31244f3fa8722db74e09f787(String), 标题：7dd817a4548147beae61aa9c269e45e9(String), 李白(String), 2020-09-26 16:31:40.406(Timestamp), 8(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 06d7da02443e41acb83ca2ca5e5055b8(String), 标题：33ff89b0d9cc41f6a1df6934270c0508(String), 李白(String), 2020-09-26 16:31:41.105(Timestamp), 2(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: f3130a1eb3724a7690a605df0a921f1e(String), 标题：40c02bc0dfc54edbbd712c5dfa02bf54(String), 李白(String), 2020-09-26 16:31:41.608(Timestamp), 7(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 32c16dec89904fcba34a4ddbe2d4035f(String), 标题：8f934183b19343f1a39945913c62ca2f(String), 李白(String), 2020-09-26 16:31:42.113(Timestamp), 3(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: b76b4811066243b4bb5d6253d9c8f924(String), 标题：fa15ed6fbd314fc68d4c94e53532a573(String), 李白(String), 2020-09-26 16:31:42.617(Timestamp), 6(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 1b874b39d7994e7d9dba805389e966d0(String), 标题：2fba6acc5af042eb91ead4ad6d97920b(String), 李白(String), 2020-09-26 16:31:43.138(Timestamp), 1(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 1a7563a846cb46a8a7a00ed7277262e2(String), 标题：752b9a0b3b514654a50a58eda85d5cca(String), 李白(String), 2020-09-26 16:31:43.657(Timestamp), 2(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: a5a810172bf74f1fbdedc5f11f11e109(String), 标题：d7641c09d54f448c8d8ca93805302296(String), 李白(String), 2020-09-26 16:31:44.174(Timestamp), 5(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 690a3ca90a4f46f9bbe968cffe545109(String), 标题：42171d4976604180a142b8c12351a69d(String), 李白(String), 2020-09-26 16:31:44.685(Timestamp), 1(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 887c540bc9aa4bf5bb24faaa2957dced(String), 标题：1ff62b031b644a24800eb95b734842d2(String), 李白(String), 2020-09-26 16:31:45.189(Timestamp), 9(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: b24aa31ecb314ce0a18ba544741035eb(String), 标题：ccba71a9f9a042abb58c553d4d1a939b(String), 李白(String), 2020-09-26 16:32:14.017(Timestamp), 390(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 0c13efc63a704259bc14313a73901509(String), 标题：d84797b1f5064599bb45157430a9bb84(String), 李白(String), 2020-09-26 16:32:14.265(Timestamp), 143(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: f66aa009fa734680b06e5e560cbc4696(String), 标题：3969fdfca39d4dff967468cb59b8a61b(String), 李白(String), 2020-09-26 16:32:14.272(Timestamp), 136(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 37b3c1d32452474db60efab599805065(String), 标题：81eec3e343b04b31990bf3fb9e55dd0f(String), 李白(String), 2020-09-26 16:32:14.276(Timestamp), 132(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: a25e81967d9042d6a8e101cc707580e7(String), 标题：1252cb7ed9f84ecf88cb8809bd6d5b01(String), 李白(String), 2020-09-26 16:32:14.279(Timestamp), 129(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: fb89d76c195148f8bf1cb094849f3dce(String), 标题：41cc7cd366c44c64b2d3e71031c45f00(String), 李白(String), 2020-09-26 16:32:14.286(Timestamp), 122(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 3998aee10cc442e0a00bac4478b5f2ab(String), 标题：97b768bade1b406ab9bb2e8e0d6fae17(String), 李白(String), 2020-09-26 16:32:14.289(Timestamp), 119(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: acc802b61755402f8881d3408cb9881c(String), 标题：f6a5fd0bc3134fcc9192e9a498628142(String), 李白(String), 2020-09-26 16:32:14.292(Timestamp), 116(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 73672dfeb582445484443c03f94bf25d(String), 标题：61bdaa6f395e4659aecbd68253d9aa17(String), 李白(String), 2020-09-26 16:32:14.297(Timestamp), 111(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 70630d581a2e45ed8144f2d11f154590(String), 标题：9ddf4f6c72b043b29ccfb95657e8d3b8(String), 李白(String), 2020-09-26 16:32:14.302(Timestamp), 106(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 2c875acb7d3a44279ed333a400a5bbe6(String), 标题：64aa791a62ef4922ae1a331b37c429b5(String), 李白(String), 2020-09-26 16:32:30.927(Timestamp), 481(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: d55f568a124440fea5c442ce358c8b02(String), 标题：abfe8caa77cb4e4eb5b11423499d53df(String), 李白(String), 2020-09-26 16:32:31.132(Timestamp), 276(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: d377912780a5495aadeff44dc1149e27(String), 标题：4177818e9e7f4df0841d59696504cc05(String), 李白(String), 2020-09-26 16:32:31.136(Timestamp), 272(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: dc3e525331424f97b2e363f12b207ebf(String), 标题：cce34031d2794f909589e6f938c188f3(String), 李白(String), 2020-09-26 16:32:31.139(Timestamp), 269(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 643d6f06245945f7a9fdcbe7facf7b7a(String), 标题：d0c89cfca04b459f8e667faefb8f517d(String), 李白(String), 2020-09-26 16:32:31.142(Timestamp), 266(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 114ac39a782c420d9a9bdda6d91919cd(String), 标题：9b4295e081fa47deaeed1f91be30168f(String), 李白(String), 2020-09-26 16:32:31.148(Timestamp), 260(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 0bbf9816dec94e5d90577d0df14af677(String), 标题：a2232e1c9b894a82a867b254a20fe88d(String), 李白(String), 2020-09-26 16:32:31.152(Timestamp), 256(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: f3fe2338da7543619d2d36c122100008(String), 标题：b7ef7c5e6510482ba10f9cac566eca74(String), 李白(String), 2020-09-26 16:32:31.155(Timestamp), 253(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: ab057bc7b319421f8032df42f80def65(String), 标题：8d49206061ef44859560ef63df21fa6b(String), 李白(String), 2020-09-26 16:32:31.157(Timestamp), 251(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: c1720ba1350c4c6a9cfae8cf8b96e282(String), 标题：d62c38b6a3734a28896dcbd72b7266f6(String), 李白(String), 2020-09-26 16:32:31.159(Timestamp), 249(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1472682156.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: d8aeb7d3deb94c86949bf1dc3e75109d(String), 标题：bda080867cb24a15bbb59b48948feaee(String), 李白(String), 2020-09-26 16:32:47.879(Timestamp), 529(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: c9946ae1816c43b6886f2f7edb59eb97(String), 标题：d4e9e301286a4970a6c9d1e8f37181fc(String), 李白(String), 2020-09-26 16:32:48.108(Timestamp), 300(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 311c6eb40a704d7ea3064faab09765d8(String), 标题：368b8d29f29744c0943922a152a34158(String), 李白(String), 2020-09-26 16:32:48.117(Timestamp), 291(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: ee7aa9c8fe054ec997fb6de5d20fc704(String), 标题：8962965dcdd54fa89774675e8c9ccbea(String), 李白(String), 2020-09-26 16:32:48.12(Timestamp), 288(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 9a706cb58c6342b79f2826ec8004b01b(String), 标题：cf7d943eb9ca455bb25b9ab1b9d4e442(String), 李白(String), 2020-09-26 16:32:48.122(Timestamp), 286(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: f05a62659a394830b174c4b15d45567e(String), 标题：56e16938d1af403c85bedb95e86f371f(String), 李白(String), 2020-09-26 16:32:48.128(Timestamp), 280(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: b7928d50aab144978e776a8f4f396486(String), 标题：a4a68316e1e44012a4ff49600b8ff514(String), 李白(String), 2020-09-26 16:32:48.132(Timestamp), 276(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 92f257a7d5f04bb68472404d537803c5(String), 标题：44b4dab67be44ec88717ef9211033594(String), 李白(String), 2020-09-26 16:32:48.134(Timestamp), 274(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: ee57cf70a995419e9ddd014d17038b1a(String), 标题：6e4037309f504ba584e0f7c97837aa7f(String), 李白(String), 2020-09-26 16:32:48.137(Timestamp), 271(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 2b01e2c7d5d74689bed142d3db5c3aa5(String), 标题：d390702c5022428e9fd0bbb867003d70(String), 李白(String), 2020-09-26 16:32:48.139(Timestamp), 269(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@57c758ac]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1472682156 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1192171522.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==>  Preparing: select * from blog;
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==> Parameters: 
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]<==      Total: 10
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@470f1802]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1192171522 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1010856212.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==>  Preparing: select * from blog; and title = ?
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==> Parameters: 李白(String)
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1782580546.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 1d8f489330e54d088481ad6e7910f41a(String), 标题：6aa14449348e41d880870c35909a75c7(String), 李白(String), 2020-09-26 16:59:21.72(Timestamp), 688(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 75e967a78faa41a1ac46df77ac9acc0e(String), 标题：2775b2ed0e1a4de796349ac226fb1981(String), 李白(String), 2020-09-26 16:59:21.927(Timestamp), 481(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 9a1fa28158524d258ff1f18e07afec32(String), 标题：880c0bfc3a3e4459a92db6a5401ea1b4(String), 李白(String), 2020-09-26 16:59:21.929(Timestamp), 479(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: a1474a07f1be4b6bbb25b10d3703e273(String), 标题：c36dabc9d9194904b9ad10d13867769f(String), 李白(String), 2020-09-26 16:59:21.931(Timestamp), 477(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 29a58db3e59d43f68cc02a8681011839(String), 标题：b8c99d11a67040398135e904350ca3a2(String), 李白(String), 2020-09-26 16:59:21.933(Timestamp), 475(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: b404c94a0c704861950a4b47936d07be(String), 标题：1628e26041cb491798d41c997f39428b(String), 李白(String), 2020-09-26 16:59:21.939(Timestamp), 468(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 96bbb920886e4bb5b9b14d987ae514da(String), 标题：c6a8c1706ff14489a8b80dc37d539b1f(String), 李白(String), 2020-09-26 16:59:21.943(Timestamp), 465(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: a55e01e12b984d9bbce2e1a7458db6ea(String), 标题：350052bc003a40348185d3c92eda14ef(String), 李白(String), 2020-09-26 16:59:21.945(Timestamp), 463(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 5ed0ec142f59442786fdef6c981ccbf5(String), 标题：56f3a0b4889e4b8e81c3463d6297886f(String), 李白(String), 2020-09-26 16:59:21.947(Timestamp), 461(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 8aa2081dc5f14fd4bf02266e3e9de48a(String), 标题：acbe2fca7cf048db8321e61db75d233c(String), 李白(String), 2020-09-26 16:59:21.95(Timestamp), 458(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6a400542]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1782580546 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1782580546.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 9c2c78609158484eaa16fea6e2b23cf4(String), 标题：672290a45b4b472489d7ba2ab0ef3cf3(String), (String), 2020-09-26 17:00:13.239(Timestamp), 169(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: c18fb400652146789b9a7fd4436fd3b9(String), 标题：2f2ac0257fa04de8be9a68e17f033f3d(String), (String), 2020-09-26 17:00:13.461(Timestamp), 947(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 1272e1e560db4012b1869b1681dcb92e(String), 标题：717ad3ccdc4c428b96892495aed24391(String), (String), 2020-09-26 17:00:13.464(Timestamp), 944(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: eb4ecad99e85491184a41f3fa5e0a69e(String), 标题：4ed4565fa99b46fea87959bf46cd0b31(String), (String), 2020-09-26 17:00:13.466(Timestamp), 942(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 21903ac045c54a8baffedad8d65b1c6f(String), 标题：4058abde4513474cb82c6829fa47fc61(String), (String), 2020-09-26 17:00:13.469(Timestamp), 939(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6a400542]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1782580546 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1782580546.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 7fa5deec68d9412a8abd5daf3a4bb17d(String), 标题：3810a8cf5d8a4d4c8d6255b1875e055b(String), 李白(String), 2020-09-26 17:00:30.566(Timestamp), 842(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: dd0ea213209a46f3b1c2d91c96e11813(String), 标题：72e3dec814da475d90767835d59b9f3b(String), 李白(String), 2020-09-26 17:00:30.766(Timestamp), 642(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 3e0f9fcd61d94eb6b8cac62552147831(String), 标题：1b3fae69eeb34837b2e452e5bc32f0d9(String), 李白(String), 2020-09-26 17:00:30.768(Timestamp), 640(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 4aa4e2bd581a438ab7158c6bee05d876(String), 标题：27d01c606a5741da8d41a17319742cbc(String), 李白(String), 2020-09-26 17:00:30.771(Timestamp), 637(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 542b60f35a4e4063bf3b8d02a8777533(String), 标题：aef048d1f2ba47ed9375b7ba95872a9d(String), 李白(String), 2020-09-26 17:00:30.773(Timestamp), 635(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6a400542]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1782580546 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1782580546.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 843c85bdfa21409b9c9f7da94788cedc(String), 标题：19ff3b6b95074646860928a1a9c63d6a(String), 杜甫(String), 2020-09-26 17:00:39.353(Timestamp), 55(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: c620d3f930c44a95b04a7b34c897be00(String), 标题：987d9698f39e4eecb5310874084c8057(String), 杜甫(String), 2020-09-26 17:00:39.603(Timestamp), 805(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: d8252f0054f44ab8b4014acb116bff5a(String), 标题：c7f262271d634750b45de71daadd6d50(String), 杜甫(String), 2020-09-26 17:00:39.614(Timestamp), 794(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: 3a18d07554044bff8faab6d3c1857b51(String), 标题：21191772a14b4a3da4db2d348666e69d(String), 杜甫(String), 2020-09-26 17:00:39.617(Timestamp), 791(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==>  Preparing: insert into mybatis.blog (id, title, author, create_time, views) values (?, ?, ?, ?, ?)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]==> Parameters: f687871600c84a17af75faccfe6b635a(String), 标题：6deed5f9980644d090a8e0e1f394659f(String), 杜甫(String), 2020-09-26 17:00:39.619(Timestamp), 789(Integer)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.addBlog]<==    Updates: 1
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6a400542]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1782580546 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1010856212.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==>  Preparing: select * from blog; and title = ?
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==> Parameters: 李白(String)
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 904861801.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==>  Preparing: select * from blog;
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==> Parameters: 
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]<==      Total: 10
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@35ef1869]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 904861801 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1010856212.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==>  Preparing: select * from blog where 1 = 1 and title = ?
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==> Parameters: 李白(String)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]<==      Total: 0
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3c407114]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1010856212 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1010856212.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==>  Preparing: select * from blog where 1 = 1 and author = ?
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==> Parameters: null
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]<==      Total: 0
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3c407114]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1010856212 to pool.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1010856212.
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==>  Preparing: select * from blog where 1 = 1 and author = ?
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]==> Parameters: 李白(String)
+[DEBUG][20-09-26][cn.yoouu.mapper.BlogMapper.getBlogIf]<==      Total: 5
+[DEBUG][20-09-26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3c407114]
+[DEBUG][20-09-26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1010856212 to pool.
